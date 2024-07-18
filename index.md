@@ -56,7 +56,7 @@ Language Models
 
 ### Projects
 - [Idea List](https://www.ishan.coffee/notes/Idea-List)
-
+- [JOB SCAM DETECTOR] website where people can paste email content or email addresses and LLM cna determine if its a scam or not
 ### ML Code Challenges
 - [Deep-ML](https://www.deep-ml.com/)
 
