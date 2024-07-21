@@ -15,8 +15,8 @@ Section 5:
 - [MNIST classifier](https://www.youtube.com/watch?v=JRlyw6LO5qo)
 
 ## Courses
--[Fast Ai](https://course.fast.ai/)
--[neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html)
+- [Fast Ai](https://course.fast.ai/)
+- [neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html)
 
   
 
