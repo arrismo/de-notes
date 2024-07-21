@@ -16,7 +16,7 @@ Section 5:
 
 ## Courses
 -[Fast Ai](https://course.fast.ai/)
-[neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html)
+-[neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html)
 
   
 
