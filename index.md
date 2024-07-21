@@ -14,6 +14,12 @@ Section 5:
 - [Andrej Karpathy Zero to Hero](https://www.youtube.com/@AndrejKarpathy)
 - [MNIST classifier](https://www.youtube.com/watch?v=JRlyw6LO5qo)
 
+## Courses
+-[Fast Ai](https://course.fast.ai/)
+[neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html)
+
+  
+
 ## Linear Algebra
 - [Linear Algebra 101 for AI/ML - Part 1](https://www.trybackprop.com/blog/linalg101/part_1_vectors_matrices_operations)
   
@@ -49,6 +55,9 @@ Language Models
 
 ## Books
 - [Designing Machine Learning Systems](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969?&_encoding=UTF8&tag=chiphuyen-20&linkCode=ur2&linkId=0a1dbab0e76f5996e29e1a97d45f14a5&camp=1789&creative=9325)
+- [Stat Learning with R](https://www.statlearning.com/)
+- [Machine Learning](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html)
+- 
   
 ## Career Resources
 - [ML Interviews Book by Chip Huyen](https://huyenchip.com/ml-interviews-book/)
