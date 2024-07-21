@@ -1,18 +1,25 @@
 # ML Roadmap
 
-Section 1: 
+Section 1: Fundamentals
+1. Reading and exercises - [Stat Learning with R](https://www.statlearning.com/)
+1. Linear Algebra 101 for AI/ML Resource
+   1. Linear Algebra 101 for AI/ML Part 2
+   2. Project: Build Image Search
 
-Section 2: 
+Section 2: ML Zoom Camp (September)
 
-Section 3:
+Section 3: Karpathy Zero to hero series!
+- Compete the entire series 
 
-Section 4: 
+Section 4: Implementing Papers and Projects
+- Implement 2 papers
+- Complete 2 projects
 
-Section 5:
+Section 5: Apply to Jobs!
 
 ## Video Tutorials
 - [Andrej Karpathy Zero to Hero](https://www.youtube.com/@AndrejKarpathy)
-- [MNIST classifier](https://www.youtube.com/watch?v=JRlyw6LO5qo)
+
 
 ## Courses
 - [Fast Ai](https://course.fast.ai/)
@@ -57,7 +64,7 @@ Language Models
 - [Designing Machine Learning Systems](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969?&_encoding=UTF8&tag=chiphuyen-20&linkCode=ur2&linkId=0a1dbab0e76f5996e29e1a97d45f14a5&camp=1789&creative=9325)
 - [Stat Learning with R](https://www.statlearning.com/)
 - [Machine Learning](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html)
-- 
+- [Chip War](https://www.amazon.com/Chip-War-Dominate-Critical-Technology/dp/B09TX24J5Y)
   
 ## Career Resources
 - [ML Interviews Book by Chip Huyen](https://huyenchip.com/ml-interviews-book/)
@@ -65,7 +72,8 @@ Language Models
 
 ### Projects
 - [Idea List](https://www.ishan.coffee/notes/Idea-List)
-- [JOB SCAM DETECTOR] website where people can paste email content or email addresses and LLM cna determine if its a scam or not
+- [JOB SCAM DETECTOR] website where people can paste email content or email addresses and LLM can determine if its a scam or not\
+- 
 ### ML Code Challenges
 - [Deep-ML](https://www.deep-ml.com/)
 
@@ -76,8 +84,9 @@ Language Models
 ## Other Links
  Contains useful links to ML Textbooks, Whitepapers, and Guides.
 
+-
 - [Ishan's Cafe](https://www.ishan.coffee/notes/)
 - [Eugene Yan](https://eugeneyan.com/)
 - [Rsrch](https://www.rsrch.space/)
 - [fromthetensor](https://github.com/jla524/fromthetensor?tab=readme-ov-file)
-
+- [LLM Visualization](https://bbycroft.net/llm)
