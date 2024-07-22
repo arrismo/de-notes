@@ -2,14 +2,14 @@
 
 Section 1: Fundamentals
 1. Reading and exercises - [Stat Learning with R](https://www.statlearning.com/)
-1. Linear Algebra 101 for AI/ML Resource
+2. Linear Algebra 101 for AI/ML Resource
    1. Linear Algebra 101 for AI/ML Part 2
    2. Project: Build Image Search
-
+3. SQL Practice
 Section 2: ML Zoom Camp (September)
 
 Section 3: Karpathy Zero to hero series!
-- Compete the entire series 
+- Complete the entire series 
 
 Section 4: Implementing Papers and Projects
 - Implement 2 papers
