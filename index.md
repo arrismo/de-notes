@@ -65,7 +65,7 @@ Language Models
 - [Stat Learning with R](https://www.statlearning.com/)
 - [Machine Learning](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html)
 - [Chip War](https://www.amazon.com/Chip-War-Dominate-Critical-Technology/dp/B09TX24J5Y)
-  
+- [Deep Learning Interviews](https://arxiv.org/pdf/2201.00650)
 ## Career Resources
 - [ML Interviews Book by Chip Huyen](https://huyenchip.com/ml-interviews-book/)
 - [Resume Advice](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
@@ -90,3 +90,4 @@ Language Models
 - [Rsrch](https://www.rsrch.space/)
 - [fromthetensor](https://github.com/jla524/fromthetensor?tab=readme-ov-file)
 - [LLM Visualization](https://bbycroft.net/llm)
+- [Neural Network Playground](https://micrograd-eureka.streamlit.app)
