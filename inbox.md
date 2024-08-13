@@ -12,4 +12,5 @@ or labeler package
 shannon - context is king
 
 pins and quarto for automation 
+purr package to generate multiple documents 
 
