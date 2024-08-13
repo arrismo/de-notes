@@ -9,6 +9,6 @@ assigning labeles to variable data
 you can use base r for this 
 or labeler package 
 
-
+shannon - context is king
 
 
