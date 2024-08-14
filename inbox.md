@@ -24,4 +24,4 @@ in browser
 
 you can all use same versions of packages
 
-typst 
+typst for layouts in reports 
