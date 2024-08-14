@@ -23,3 +23,5 @@ forum.posit.co has resources for posit workbench
 in browser 
 
 you can all use same versions of packages
+
+typst 
