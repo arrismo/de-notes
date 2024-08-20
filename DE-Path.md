@@ -2,9 +2,17 @@
 
 ## Pre work 
 - [ ] Install Linux Distro for all work related to Data Engineering
-- [ ] Ask DE at MSK about experience and roadmap
+- [x] Ask DE at MSK about experience and roadmap
 
-## Section 1: Fundamentals
+## Section 1: Fundamentals 
+
+## Section 1.1: Databases
+
+* [ ] Modern Databases Slides
+* [ ] 
+
+
+## Section 1.2: Programming
 
 1. SQL
    1. [Leetcode SQL](https://leetcode.com/problemset/database/)
@@ -14,7 +22,6 @@
    5. Microsoft SQL Server
 2. Java
 3. Scala
-
 
 
 ### Section 2: DE Zoom Camp (January 2025)
