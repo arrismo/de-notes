@@ -1,11 +1,15 @@
 # Todo
 
-Section 1:
-- [ ] Stat learning Reading
-- [ ] Stat learning exercises in **Python**
-- [ ] Linear Algebra 101 Part 1 
-- [ ] Linear Algebgra 101 Part 2
-- [ ] Linear Algebra Project
+Section 1: Setup 
+- [ ] Install Ubuntu 
+- [ ] Setup Ubuntu
+- [ ] Download VSCODE
+
+Section 2: Database
+- [ ]
+
+Section 3: Data Engineering 101 Tasks
+- [ ]
 
 Tips:
 - [ ] You can mark it completed by pressing `Option`+`C` (or `Alt`+`C`) when your cursor is on this line
