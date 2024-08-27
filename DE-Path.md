@@ -43,8 +43,7 @@
 
 ## Section 3: Cloud platforms
 1. AWS
-2. Google Cloud platforms
-3. Databricks
+2. Databricks
 
 ## Section 3.1: Databricks
 - [Databricks Learning Sessions](https://customer-academy.databricks.com/learn)
@@ -60,11 +59,10 @@ Certifications:
 
 
 
-## Section 3.3: Google Cloud Platforms
-
-## Section 4: Frameworks
+## Section 4: Frameworks and Transforming Tools
 - [Apache Spark the Definitive Guide](https://github.com/databricks/Spark-The-Definitive-Guide/tree/master?tab=readme-ov-file)
 
+- [Data Engineering with dbt](Roberto%20Zagni%20-%20Data%20Engineering%20with%20dbt_%20A%20practical%20guide%20to%20building%20a%20cloud-based,%20pragmatic,%20and%20dependable%20data%20platform%20with%20SQL%20(2023,%20Packt%20Publishing)%20-%20libgen.li.pdf)
 
 
 ### Section 5: Projects
@@ -86,7 +84,6 @@ Practice Problems
    
 2. Fundamentals of Data Engineering by Joe Reis
 
-3. [Data Engineering Cookbook](https://github.com/andkret/Cookbook/tree/master?tab=readme-ov-file)
 
 
 
