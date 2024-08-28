@@ -1,7 +1,7 @@
 # Data Engineering Roadmap
 
 ## Pre work 
-- [ ] Install Linux Distro for all work related to Data Engineering
+- [X] Install Linux Distro for all work related to Data Engineering
 - [x] Ask DE at MSK about experience and roadmap
 - [ ] Ask Another DE at MSK about experience and roadmap 
 
@@ -31,11 +31,9 @@
 
 1. SQL
    1. [Leetcode SQL](https://leetcode.com/problemset/database/)
-   2. [DataLemur](https://datalemur.com/sql-tutorial)
-   3. [Introduction to Window Functions in SQL](https://khashtamov.com/en/sql-window-functions/)
-   4. PostgreSQL
-   5. MySQL
-   6. Microsoft SQL Server
+   2. PostgreSQL
+   3. MySQL
+   4. Microsoft SQL Server
 2. Python
 3. Scala
 
@@ -74,6 +72,7 @@ Certifications:
 [Data Engineering Interview Questions](https://github.com/OBenner/data-engineering-interview-questions?tab=readme-ov-file)
 
 Practice Problems
+2. [DataLemur](https://datalemur.com/sql-tutorial)
 - https://github.com/danielbeach/data-engineering-practice/tree/main
 - https://github.com/findmypast/recruitment-test-data-engineering
 - https://cmdchallenge.com/
