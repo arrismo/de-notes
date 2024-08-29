@@ -60,7 +60,7 @@ Certifications:
 ## Section 4: Frameworks and Transforming Tools
 - [Apache Spark the Definitive Guide](https://github.com/databricks/Spark-The-Definitive-Guide/tree/master?tab=readme-ov-file)
 
-- [Data Engineering with dbt](Roberto%20Zagni%20-%20Data%20Engineering%20with%20dbt_%20A%20practical%20guide%20to%20building%20a%20cloud-based,%20pragmatic,%20and%20dependable%20data%20platform%20with%20SQL%20(2023,%20Packt%20Publishing)%20-%20libgen.li.pdf)
+- [Data Engineering with dbt](<Books/Roberto Zagni - Data Engineering with dbt_ A practical guide to building a cloud-based, pragmatic, and dependable data platform with SQL (2023, Packt Publishing) - libgen.li.pdf>)
 
 
 ### Section 5: Projects
