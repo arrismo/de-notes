@@ -1,0 +1,21 @@
+6 Responsibilites of a Data Engineer 
+1. Move data between systems
+Extract: Extract data from sources. This can be an api,cloud storage,databases,or csv files
+Transform: transform the data. some common transformations are mapping,filtering,changing the structure of the data
+Load: Load the data into the destination system. This can be a cloud storage file, data warehouse or cache databse
+
+2. Manage Data Warehouse
+Data warehouse: a data warehouse is a data management system that enables and supports business intelligence activities (analytics). Data warehouse perfomr queries and analysis
+that contain large amount of historical data. The data warehouse consolidates large amounts of data from multiple sources. 
+
+ 1. Warehouse data modeling: Model the data for analytical queries. Typically aggregation queries on large tables. Modleling includes partitions, handling fact and dimension tables
+
+ 2. Warehouse perfomance: Make sure the queries are fast and the warehouse can scale as needed.
+
+ 3. Data Quality: Ensuring data quality within the data warehouse
+
+Common modeling techniques: Kimball modeling, Data Vault, Data Lake
+
+Kimball modeling: data warehouseing methodology. Its a dimensional modeling approach that create data warehouses to support business intelligence and analytics. 
+
+
