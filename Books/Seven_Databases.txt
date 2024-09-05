@@ -1,0 +1,9 @@
+PostgreSQL
+Relational Database Management System (RDBMS)
+What are Relational Databases? 
+Relational databses are set-theory-based sytems in which data is stored in two-dimensional tables (rows and columns)
+
+
+
+
+

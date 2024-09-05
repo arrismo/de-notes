@@ -18,4 +18,35 @@ Common modeling techniques: Kimball modeling, Data Vault, Data Lake
 
 Kimball modeling: data warehouseing methodology. Its a dimensional modeling approach that create data warehouses to support business intelligence and analytics. 
 
+Data Vault:
+
+Data Lake: 
+
+Common warehouses: snowflake,redshift,Bigquery, Clickhouse, Postgres
+
+3. Schedule,execute and monitor data pipelines
+Data engineers not only build pipelines but they schedule them
+Scheduling data pipelines to be run at a certain schedule or in response to some event 
+Exdcuting data pipelines and ensuring that they can scale and have the right permissions
+Monitoring data pipelinee for failures, deadlocks, and long-running tasks
+Managing metadata end to end time taken, failture reasons 
+
+
+
+4. Serve data to the end-users
+Now that the data is avaiblable in the data warehouse, you need to serve it to the end-user. This can be analyst, an application or external clients 
+
+	1. Data Visualization/Dashboard tool: 
+	Tools used by humans to analyze the data and create charts 
+	2. Permissions for the data: granting correct permissions to applications or end-users
+	3. Data endpoints: aaplications will need API access
+5. Data strategy
+Data engineers have to come up with a plan to collect the data 
+
+6. Deploy ML Models in production 
+After ML models are developed, Data Engineers deploy these models by optimizing them to be used in a production environement
+
+
+The main objective of the data engineering teams is to enable company wide use of the data for decision making. 
+
 
