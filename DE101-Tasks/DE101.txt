@@ -2,7 +2,7 @@
 1. Move data between systems
 Extract: Extract data from sources. This can be an api,cloud storage,databases,or csv files
 Transform: transform the data. some common transformations are mapping,filtering,changing the structure of the data
-Load: Load the data into the destination system. This can be a cloud storage file, data warehouse or cache databse
+Load: Load the data into the destination system. This can be a cloud storage file, data warehouse or cache database
 
 2. Manage Data Warehouse
 Data warehouse: a data warehouse is a data management system that enables and supports business intelligence activities (analytics). Data warehouse perfomr queries and analysis
@@ -10,17 +10,22 @@ that contain large amount of historical data. The data warehouse consolidates la
 
  1. Warehouse data modeling: Model the data for analytical queries. Typically aggregation queries on large tables. Modleling includes partitions, handling fact and dimension tables
 
- 2. Warehouse perfomance: Make sure the queries are fast and the warehouse can scale as needed.
+ 2. Warehouse performance: Make sure the queries are fast and the warehouse can scale as needed.
 
  3. Data Quality: Ensuring data quality within the data warehouse
 
 Common modeling techniques: Kimball modeling, Data Vault, Data Lake
 
-Kimball modeling: data warehouseing methodology. Its a dimensional modeling approach that create data warehouses to support business intelligence and analytics. 
+Kimball modeling: data warehousing methodology. Its a dimensional modeling approach that create data warehouses to support business intelligence and analytics. 
 
-Data Vault:
+Data Vault: a way to store and manage data in a structured and organized manner. 
 
-Data Lake: 
+Data Lake: Storage repository  that holds a alrge amount of raw and unprocessed data. 
+
+Data Lake vs Data warehouse
+Data Warehouse: Processed, transformed data for reporting and analytics
+Data Lake: Raw and unprocessed data
+
 
 Common warehouses: snowflake,redshift,Bigquery, Clickhouse, Postgres
 
@@ -28,8 +33,8 @@ Common warehouses: snowflake,redshift,Bigquery, Clickhouse, Postgres
 Data engineers not only build pipelines but they schedule them
 Scheduling data pipelines to be run at a certain schedule or in response to some event 
 Exdcuting data pipelines and ensuring that they can scale and have the right permissions
-Monitoring data pipelinee for failures, deadlocks, and long-running tasks
-Managing metadata end to end time taken, failture reasons 
+Monitoring data pipeline for failures, deadlocks, and long-running tasks
+Managing metadata end to end time taken, failure reasons 
 
 
 
