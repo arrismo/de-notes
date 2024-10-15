@@ -1,0 +1,18 @@
+What is the difference between a data lake and a data warehouse?
+
+Data lake:
+A data lake is a storage location where raw data is dumped and use as the data source for your data warehouse.
+
+Data lakes are quick to set up because you do not need to clean or model the data
+
+Data warehouse:
+Data warehouse is the process of analyzing data and end-user patterns, curating,cleaning,modeling, and waulity testing the data.
+Slower to setup 
+- holds all of the company's historical data and ise used to run analytical queries
+
+
+
+
+
+Data lake and warehouse tools:
+

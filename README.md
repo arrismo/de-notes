@@ -13,8 +13,9 @@ Section 2: Database
 Section 3: Data Engineering 101 Tasks
 
 - [x] DE 101 #1
-- [ ] DE 101 #2
-- [ ] DE 101 #3
+- [x] DE 101 #2
+- [x] DE 101 #3
+- [ ] Delta Lake vs Delta Warehouse
 
 Tips:
 
