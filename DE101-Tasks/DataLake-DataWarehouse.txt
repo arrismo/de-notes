@@ -10,6 +10,14 @@ Data warehouse is the process of analyzing data and end-user patterns, curating,
 Slower to setup 
 - holds all of the company's historical data and ise used to run analytical queries
 
+What is a data warehouse?
+
+Design Patterns for Data Warehouses:
+Dimensional Modeling - Kimball
+Data Vault - Linstedt
+Data Mart
+
+Flat Table
 
 
 
